@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"10a514d440aca97a","type":"file","file":"1.Random Number Generator.md","x":-480,"y":-340,"width":920,"height":1260},
+		{"id":"bc5f463ffa7d9817","type":"file","file":"0.Intro.md","x":-480,"y":-820,"width":920,"height":400},
+		{"id":"1141690c42265c69","type":"file","file":"2.Complessità.md","x":-480,"y":1000,"width":920,"height":620},
+		{"id":"650500ac55d11218","type":"file","file":"3.Principi e Chiavi.md","x":-480,"y":1680,"width":920,"height":760},
+		{"id":"7462e5dbb35a9124","type":"file","file":"4.Funzioni unidirezionali.md","x":-480,"y":2500,"width":920,"height":520},
+		{"id":"d1b8bc9c2fa349d4","type":"file","file":"5.Funzioni di Hash.md","x":-480,"y":3080,"width":920,"height":1920},
+		{"id":"f93efbf8886cb8c0","type":"file","file":"6.Crittologia classica.md","x":-480,"y":5080,"width":920,"height":400},
+		{"id":"5a9f08c1e7456ea7","type":"file","file":"7.Cifrari Simmetrici.md","x":-480,"y":5560,"width":920,"height":17400},
+		{"id":"f28362213b774386","type":"file","file":"8.Cifrari Asimmetrici.md","x":-480,"y":23120,"width":920,"height":20220},
+		{"id":"0cf4434a9eae6954","type":"file","file":"10.Kerberos.md","x":-480,"y":49640,"width":920,"height":3020},
+		{"id":"3d652fc69e15e504","type":"file","file":"11.SSL - TLS.md","x":-480,"y":52800,"width":920,"height":2940},
+		{"id":"14ee4e1b69bcede2","type":"file","file":"12.IPSec.md","x":-480,"y":55860,"width":920,"height":2940},
+		{"id":"d46ac6447f526734","type":"file","file":"13.OAuth, OpenID Connect, SAML.md","x":-480,"y":58920,"width":920,"height":520},
+		{"id":"961550f1a4347cf7","type":"file","file":"14.Blockchain.md","x":-480,"y":59500,"width":920,"height":6140},
+		{"id":"3b0fc971ae58fdcc","type":"file","file":"9.Processo per l'Identificazione.md","x":-480,"y":43400,"width":920,"height":6140}
+	],
+	"edges":[]
+}
